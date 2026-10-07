@@ -1,4 +1,4 @@
-<!-- This file will print "Hello, I am Shahana and I am devops Engineer" using variables.
+<!-- This file will print "Hello, I am Shahana and I am devops Engineer" using variables. -->
 
 #!/bin/bash
 
