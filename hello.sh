@@ -1,5 +1,5 @@
-<!-- This script will print Hello Friends! -->
+<!-- This script will print Hello, Devops! -->
 
 #!/bin/bash
 
-echo "Hello Friends!"
+echo "Hello, Devops!"
