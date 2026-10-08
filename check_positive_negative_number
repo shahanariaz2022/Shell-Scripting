@@ -1,1 +1,15 @@
+<!-- This Script will check either number is positive or negative or 0 -->
 
+#!/bin/bash
+
+read -p "Enter your number: " number
+echo "you print $number"
+
+if [ "$number" -gt 0 ]; then
+        echo "$number is positive"
+elif [ "$number" -lt 0 ]; then
+        echo "$number is negative"
+else
+        echo "Number is 0"
+
+fi
